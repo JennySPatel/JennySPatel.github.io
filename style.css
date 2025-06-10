@@ -70,4 +70,21 @@ footer {
   margin-top: 2rem;
 }
 
+.linkedin-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #0a66c2; /* LinkedIn Blue */
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.linkedin-button:hover {
+  background-color: #004182;
+}
+
+
 
